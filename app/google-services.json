@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "183311761601",
+    "firebase_url": "https://integrama-9d6d9.firebaseio.com",
+    "project_id": "integrama-9d6d9",
+    "storage_bucket": "integrama-9d6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183311761601:android:21c96e194744064643d440",
+        "android_client_info": {
+          "package_name": "com.fatihacar.instagrama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183311761601-gtfl1htovguqdn3jg6pdina8hsvlef3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKs7JW9O08vyRQOJ1ezkKFHmkwpWfiyCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183311761601-gtfl1htovguqdn3jg6pdina8hsvlef3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
